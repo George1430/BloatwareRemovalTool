@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloatware Remover - Samsung</string>
+    <string name="welcome_title">Samsung Bloatware Remover</string>
+    <string name="welcome_subtitle">Free Up Space & Boost Performance</string>
+    <string name="welcome_desc">Remove pre-installed apps you don\'t need. No PC required. 100% safe.</string>
+    <string name="start_button">Start Cleanup</string>
+    <string name="auto_select">Auto-Select Bloatware</string>
+    <string name="all_apps">All Apps</string>
+    <string name="system_apps">System Apps (Protected)</string>
+    <string name="suggested">Suggested for Removal</string>
+    <string name="uninstall_selected">Uninstall Selected</string>
+    <string name="storage_freed">Storage That Will Be Freed</string>
+    <string name="apps_selected">apps selected</string>
+    <string name="samsung_bloatware">Samsung Bloatware Detected</string>
+    <string name="tap_to_select">Tap to select all detected bloatware</string>
+    <string name="device_info">Device Information</string>
+    <string name="storage_used">Storage Used by Bloatware</string>
+    <string name="mb_used">MB</string>
+</resources>
